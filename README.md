@@ -1,4 +1,4 @@
-### Hey there! I'm passionate about reading crime thrillers and playing basketball.
+### An engineering student who is passionate about reading crime thrillers and playing basketball.
 
 <!--
 **Sangeetha-S-Kumar/Sangeetha-S-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
